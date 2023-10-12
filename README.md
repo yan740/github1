@@ -1,6 +1,7 @@
 # github1
 lesson folder for github by yutube
 
-##Online class >> AWS
+OnlineClass >> AWS 
+##AWS  受け放題コース
 
-AWS 受け放題コース
+*Lesson folder for basic github*
